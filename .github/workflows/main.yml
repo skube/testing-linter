@@ -34,5 +34,5 @@ jobs:
         
         
     #Try out the Super-Linter
-    - name: Super-Linter
-      uses: github/super-linter@v2.1.0
+    #- name: Super-Linter
+    #  uses: github/super-linter@v2.1.0
