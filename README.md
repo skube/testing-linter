@@ -6,4 +6,4 @@ just test
 
 ![OK_CI](https://github.com/skube/testing-linter/workflows/OK_CI/badge.svg)
 
-Does this work
+Does this work, adding a new PR
